@@ -45,6 +45,7 @@ jspm_packages
 
 # Yarn Integrity file
 .yarn-integrity
+
+
 #my added
-public/js/main.js
 public/js/main.js
